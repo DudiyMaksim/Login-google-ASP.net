@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ApiAuth.Controllers.AccountController",
+    "Method": "GoogleLogin",
+    "RelativePath": "api/Account/google-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebWorker.Models.Account.GoogleLoginRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
