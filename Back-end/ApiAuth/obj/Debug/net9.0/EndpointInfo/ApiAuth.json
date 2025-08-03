@@ -35,6 +35,18 @@
           }
         }
       }
+    },
+    "/api/Account/GetUsers": {
+      "get": {
+        "tags": [
+          "Account"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {

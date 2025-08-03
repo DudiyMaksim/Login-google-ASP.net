@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "ApiAuth.Controllers.AccountController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Account/GetUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiAuth.Controllers.AccountController",
     "Method": "GoogleLogin",
     "RelativePath": "api/Account/google-login",
     "HttpMethod": "POST",

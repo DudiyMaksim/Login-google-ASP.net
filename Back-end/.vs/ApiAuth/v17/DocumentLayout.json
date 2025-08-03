@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{329EC805-22E0-4308-AF9E-9E768AB551A6}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{329EC805-22E0-4308-AF9E-9E768AB551A6}|ApiAuth\\ApiAuth.csproj|c:\\auth project\\back-end\\apiauth\\data\\workerdbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329EC805-22E0-4308-AF9E-9E768AB551A6}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\data\\workerdbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329EC805-22E0-4308-AF9E-9E768AB551A6}|ApiAuth\\ApiAuth.csproj|c:\\auth project\\back-end\\apiauth\\data\\appworkerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329EC805-22E0-4308-AF9E-9E768AB551A6}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\data\\appworkerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{329EC805-22E0-4308-AF9E-9E768AB551A6}|ApiAuth\\ApiAuth.csproj|c:\\auth project\\back-end\\apiauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{329EC805-22E0-4308-AF9E-9E768AB551A6}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerDbSeeder.cs",
+              "DocumentMoniker": "C:\\Auth Project\\Back-end\\ApiAuth\\Data\\WorkerDbSeeder.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Data\\WorkerDbSeeder.cs",
+              "ToolTip": "C:\\Auth Project\\Back-end\\ApiAuth\\Data\\WorkerDbSeeder.cs",
+              "RelativeToolTip": "ApiAuth\\Data\\WorkerDbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:51:49.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AppWorkerDbContext.cs",
+              "DocumentMoniker": "C:\\Auth Project\\Back-end\\ApiAuth\\Data\\AppWorkerDbContext.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Data\\AppWorkerDbContext.cs",
+              "ToolTip": "C:\\Auth Project\\Back-end\\ApiAuth\\Data\\AppWorkerDbContext.cs",
+              "RelativeToolTip": "ApiAuth\\Data\\AppWorkerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:51:42.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Auth Project\\Back-end\\ApiAuth\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ApiAuth\\appsettings.Development.json",
@@ -38,12 +72,11 @@
               "RelativeToolTip": "ApiAuth\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-24T21:44:21.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T21:44:21.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Auth Project\\Back-end\\ApiAuth\\appsettings.json",
               "RelativeDocumentMoniker": "ApiAuth\\appsettings.json",
@@ -51,8 +84,7 @@
               "RelativeToolTip": "ApiAuth\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-24T21:44:10.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T21:44:10.799Z"
             },
             {
               "$type": "Document",
@@ -62,14 +94,14 @@
               "RelativeDocumentMoniker": "ApiAuth\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Auth Project\\Back-end\\ApiAuth\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ApiAuth\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowGQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T21:24:44.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Auth Project\\Back-end\\ApiAuth\\Program.cs",
               "RelativeDocumentMoniker": "ApiAuth\\Program.cs",
@@ -77,8 +109,7 @@
               "RelativeToolTip": "ApiAuth\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T21:21:27.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T21:21:27.719Z"
             }
           ]
         }

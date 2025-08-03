@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c0655184cc6363447752ad25d4c3c3cd274a8a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

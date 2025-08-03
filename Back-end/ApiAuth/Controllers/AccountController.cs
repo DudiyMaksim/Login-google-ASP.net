@@ -7,6 +7,7 @@ using WebWorker.Data.Entities.Identity;
 using WebWorker.Models.Account;
 using Google.Apis.Auth;
 using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
 
 namespace ApiAuth.Controllers
 {
@@ -91,6 +92,12 @@ namespace ApiAuth.Controllers
                 _logger.LogError(ex, "Неочікувана помилка під час входу через Google");
                 return StatusCode(500, "Внутрішня помилка сервера");
             }
+        }
+        [HttpGet("GetUsers")]
+        public async Task<IActionResult> GetUsers()
+        {
+            var users = await _userManager.Users.ToListAsync(); 
+            return Ok(users);
         }
     }
 }
